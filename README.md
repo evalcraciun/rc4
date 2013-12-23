@@ -1,5 +1,5 @@
-rc4
+RC4
 ===
 
-Rc4 Cryptosystem js oop
-http://en.wikipedia.org/wiki/RC4
+RC4 Cryptosystem in javascript
+
