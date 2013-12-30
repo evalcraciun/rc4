@@ -12,11 +12,16 @@ RC4 has become an extremely popular ciphersuite for SSL/TLS connections. There a
 2)RC4 is pretty fast. Faster encryption means less computation and therefore lower hardware requirements for big service providers like Google.
 
 ## Methods used in cryptosystem
-RC4.encrypt(key, str) - demonstrate the RC4 encryption script
-RC4.decrypt(key, res) - decode encrypted result with the same key
-RC4.keyStream(key, str) - generate keystream for a random array
-RC4.randomKey(len, msg, charSet) - generate a random key
-RC4.generateKeys(len, keyLength, message) - create an array with random keys
+
+-RC4.encrypt(key, str) - demonstrate the RC4 encryption script
+
+-RC4.decrypt(key, res) - decode encrypted result with the same key
+
+-RC4.keyStream(key, str) - generate keystream for a random array
+
+-RC4.randomKey(len, msg, charSet) - generate a random key
+
+-RC4.generateKeys(len, keyLength, message) - create an array with random keys
 
 
 Last method from the algorithm is showing the weaknesses in the key scheduling
