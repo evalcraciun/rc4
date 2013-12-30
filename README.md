@@ -26,6 +26,6 @@ RC4 has become an extremely popular ciphersuite for SSL/TLS connections. There a
 
 Last method from the algorithm is showing the weaknesses in the key scheduling
 
-Demo Link: <a href="http://stefaniq.com/rc4/">RC4 </a>
+Demo Link: <a href="http://stefaniq.com/rc4/" target="_blank">RC4 </a>
 
 
